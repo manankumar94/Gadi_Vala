@@ -1,0 +1,12 @@
+It contains total 4 classes
+
+1. Car Class - It contains meta data of Car which we want to rent. Like price, model, basepricePerDay, isAvailable something like this.
+
+2. Customer Class - It contains meta data about the customer which wants to rent a car. Like customerId, customer Name.
+
+3.  Rental Class - It contains information about car, customer and how many days customer wants a car.
+
+4. 
+
+We make these varibles inside these class as Private because we don't want that our variables should be called outside the classes.
+To acess these variables we use getters and Setters.
